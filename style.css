@@ -14,3 +14,19 @@
 .heighlight {
   font-weight: 700;
 }
+ul li {
+  list-style: none;
+}
+.package-btn {
+  border-radius: 40px;
+  background-color: #fba8dd32;
+}
+.focus-area {
+  border-radius: 40px;
+}
+footer {
+  height: 250px;
+  background-color: #0b0d17;
+  margin-top: 80px;
+  color: #e5e5e5;
+}
