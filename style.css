@@ -30,3 +30,13 @@ footer {
   margin-top: 80px;
   color: #e5e5e5;
 }
+.fab {
+  font-size: 40px;
+}
+button a {
+  text-decoration: none;
+  color: white;
+}
+.fa-google-play {
+  font-size: 30px;
+}
