@@ -8,12 +8,16 @@
      utilites
 -----------------*/
 .web-body {
-  background-color: #e5e5e5;
+  background-color: #e5e5e577;
   font-family: "Poppins", sans-serif;
 }
 .heighlight {
   font-weight: 700;
 }
+
+/*---------------
+     packages
+----------------*/
 ul li {
   list-style: none;
 }
@@ -24,12 +28,7 @@ ul li {
 .focus-area {
   border-radius: 40px;
 }
-footer {
-  height: 250px;
-  background-color: #0b0d17;
-  margin-top: 80px;
-  color: #e5e5e5;
-}
+
 .fab {
   font-size: 40px;
 }
@@ -40,6 +39,17 @@ button a {
 .fa-google-play {
   font-size: 30px;
 }
+
+/*----------------
+   footer area
+  --------------*/
+footer {
+  height: 250px;
+  background-color: #0b0d17;
+  margin-top: 80px;
+  color: #e5e5e5;
+}
+
 .icons img {
   width: 180px;
 }
