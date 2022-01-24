@@ -14,7 +14,13 @@
 .heighlight {
   font-weight: 700;
 }
-
+.color-focus {
+  color: #2e7ef6;
+}
+.bonus {
+  background-color: #fbf0f7;
+  border-radius: 20px;
+}
 /*---------------
      packages
 ----------------*/
@@ -24,6 +30,11 @@ ul li {
 .package-btn {
   border-radius: 40px;
   background-color: #fba8dd32;
+}
+.package-btn-h {
+  background-color: white;
+
+  border-radius: 20px;
 }
 .focus-area {
   border-radius: 5px 30px 5px 30px;
@@ -40,7 +51,6 @@ button a {
 .fa-google-play {
   font-size: 30px;
 }
-
 /*----------------
    footer area
   --------------*/
@@ -50,7 +60,6 @@ footer {
   margin-top: 80px;
   color: #e5e5e5;
 }
-
 .icons img {
   width: 180px;
 }
